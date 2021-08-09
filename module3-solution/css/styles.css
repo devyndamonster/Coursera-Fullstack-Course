@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(206, 206, 206);
+    
+}
+
+#navbar{
+    background-color: rgb(121, 121, 121);
+    border: 2px solid black;
+    border-right: 0;
+    border-left: 0;
+    border-top: 0;
+    border-radius: 0;
+}
+
+h1{
+    color: black;
+}
+
+#navbar-header-text{
+    margin: -10px 0px 0px 0px;
+}
+
+#nav-list{
+    margin-top: 10px;
+}
+
+#nav-list a{
+    color: black;
+}
+
+#nav-list {
+    margin-top: 10px;
+  }
+  #nav-list a {
+    color: #951C49;
+    text-align: center;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+  
+  #phone {
+    margin-top: 5px;
+  }
+  #phone a { /* Phone number */
+    text-align: right;
+    padding-bottom: 0;
+  }
+  #phone div { /* We Deliver */
+    color: #557c3e;
+    text-align: right;
+    padding-right: 15px;
+  }
